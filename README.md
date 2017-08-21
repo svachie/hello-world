@@ -1,2 +1,2 @@
-# hello-world
-please work
+
+learned statistics, now machine learning.
